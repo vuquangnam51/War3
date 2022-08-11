@@ -1,0 +1,36 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "---------------------------------------" )
+	call Preload( "User Name: Kisaki#11811" )
+	call Preload( "Played Version: 0.61h" )
+	call Preload( "Compatible Version: 0.60c ~" )
+	call Preload( "Class: Berserker" )
+	call Preload( "Level: 86" )
+	call Preload( "----------Hero Inventory----------" )
+	call Preload( "1. Droplet Orb" )
+	call Preload( "2. Armor of Poison" )
+	call Preload( "3. Mask of Blood" )
+	call Preload( "4. Wings of Purification" )
+	call Preload( "5. Sanguiel, the Bloodspear" )
+	call Preload( "6. Pickaxe" )
+	call Preload( "----------Bag----------" )
+	call Preload( "----------Storage----------" )
+	call Preload( "1. Blade of Requiem" )
+	call Preload( "2. Bat Wings" )
+	call Preload( "3. Ring of the Dead" )
+	call Preload( "4. Wings of Nature" )
+	call Preload( "5. Walrus Skin Cloak" )
+	call Preload( "6. Hydra Poison Tooth" )
+	call Preload( "7. Black Pearl" )
+	call Preload( "8. Dragon Scale" )
+	call Preload( "9. Dragon Bone" )
+	call Preload( "10. Ring of Count" )
+	call Preload( "11. Bloody Robe" )
+	call Preload( "---------------------------------------" )
+	call Preload( "Load Code 1: -load nMjZBEd8d86EU0gbQ4Lnw8@CDXd2W0HsrflHA%Yc%$CKoruR$B8V6@Ubs@seZdCMOFq5GZso8aabuua8Kx" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

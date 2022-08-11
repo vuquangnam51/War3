@@ -1,0 +1,12 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " nickname Kisaki#11811" )
+	call Preload( " Clear Count = 0" )
+	call Preload( " Accumulated Play Points = 0point" )
+	call Preload( "-load 6oGjZdXzhAw" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

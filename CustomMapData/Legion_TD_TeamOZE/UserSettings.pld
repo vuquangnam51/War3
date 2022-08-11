@@ -1,0 +1,14 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "")
+	call BlzSetAbilityTooltip('A017', "160.0", 1)
+	call BlzSetAbilityTooltip('A017', "false", 2)
+	call BlzSetAbilityTooltip('A017', "true", 3)
+	call BlzSetAbilityTooltip('A017', "true", 4)
+return//" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

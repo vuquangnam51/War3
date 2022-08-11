@@ -1,0 +1,18 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip('AM04', "To&.nPYK:vl,|r^.,&6Iajo,zR%//iZOb;0~zo#.,~^o%4kfYEg;o~{rlc]cSEg;bPWSZg,~!Rdja,zS%//aLN`?`Y(FVjoT^o.6^XZMZq9Xzo*thh(o^.,$_GV;,Xzo*qq](o^.,$[Lc;,Xzo*hc[(o^.,$XEV;,Xzo*jrP(o^.,$^Hg;,Xzo*tkX(o&0.!~o&2/ wp", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip('AM04', "+/, }q)/", 1)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

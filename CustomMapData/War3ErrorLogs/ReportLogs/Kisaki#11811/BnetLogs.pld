@@ -1,0 +1,12 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "Crash Report" )
+	call Preload( "")
+	call BlzSetAbilityTooltip('A017', "27-h+.2m?o8Z;,5_;>zRezJ~@irSFo**f2scJ4n`.K!`#0~6OB;+RH8OF+", 0)
+//" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

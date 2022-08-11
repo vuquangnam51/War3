@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+
+
+//Your Current save code is
+		-load MV3E6D-ACCa4D
+
+ DotD6.10f  January 2022 
+	 Latest version , News , Community at https://discord.gg/tHbJ2es
+	//" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
