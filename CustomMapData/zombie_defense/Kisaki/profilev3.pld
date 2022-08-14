@@ -2,10 +2,10 @@ function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
 	call Preload( "" )
-call BlzSetAbilityTooltip('AM04', "To&.nPYK:vl,|r^.,&6Iajo,zR%//iZOb;0~zo#.,~^o%4kfYEg;o~{rlc]cSEg;bPWSZg,~!Rdja,zS%//aLN`?`Y(FVjoT^o.6^XZMZq9Xzo*thh(o^.,$_GV;,Xzo*qq](o^.,$[Lc;,Xzo*hc[(o^.,$XEV;,Xzo*jrP(o^.,$^Hg;,Xzo*tkX(o&0.!~o&2/ wp", 0)
+call BlzSetAbilityTooltip('AM04', "To&/nPYK:vl,{p&g,~Ñ+^jhb(tg.-ÑeOdk9#zo%,,~zS%/4^bNZp9:TSVieq{p-/-bzp(uaP_HZp9ULLhce~zugmhT(oh.-!]Aci=SU|ipqT^o.6^XZMZq9Xzo*thh(o^.,$_GV;,Xzo*qq](o^.,$[Lc;,Xzo*hc[(o^.,$XEV;,Xzo*jrP(o^.,$^Hg;,Xzo*tkX", 0)
 //" )
 	call Preload( "" )
-call BlzSetAbilityTooltip('AM04', "+/, }q)/", 1)
+call BlzSetAbilityTooltip('AM04', "(o&0.!~o&2/ wu-/0${o'.", 1)
 //" )
 	call Preload( "" )
 endfunction
