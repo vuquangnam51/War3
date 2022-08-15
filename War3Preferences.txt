@@ -165,7 +165,7 @@ healthbars=2
 herobar=1
 heroframes=1
 herolevel=1
-multiboardon=0
+multiboardon=1
 netgameport=6112
 numericCooldown=0
 occlusion=0
@@ -216,6 +216,11 @@ HeroOnly=0
 Hotkey=78
 MetaKeyState=0
 QuickCast=0
+
+[Mac]
+disableosshortcuts=0
+usecmdasctrl=0
+usemacfnkeys=1
 
 [Map]
 battlenet_V0=
@@ -291,7 +296,7 @@ backgroundmaxfps=10
 colordepth=32
 foliagequality=1
 gamma=30
-lightingquality=1
+lightingquality=0
 maxfps=200
 particles=1
 previouswindowmode=1
@@ -300,7 +305,7 @@ resetdefaults=0
 resheight=1080
 reswidth=1920
 shadowquality=1
-spellfilter=1
+spellfilter=0
 texquality=1
 vsync=1
 windowheight=780

@@ -1,8 +1,1182 @@
-8/14 18:18:21.263  GameMain Started
-8/14 18:18:21.263  Command Line: D:\Warcraft3.1.28.5\w3l.exe  -nativefullscr
-8/14 18:18:21.577  Telemetry Launch Info:
-process_name: "Warcraft III.exe"
-current_expansion_version: "W3XP"
-highest_expansion_version: "W3XP"
-
-
+8/15 17:54:05.159  GameMain Started
+8/15 17:54:05.159  Command Line: "/Applications/Warcraft III/_retail_/x86_64/Warcraft III.app/Contents/MacOS/Warcraft III" -launch -uid w3
+8/15 17:54:05.159  Current Directory: "\Applications\Warcraft III\_retail_"
+8/15 17:54:06.393  prism: Info: name: Apple M1
+8/15 17:54:06.393  prism: Info: driverVersion: 0x0000000000000000
+8/15 17:54:06.393  prism: Info: vendorId: 0x0000
+8/15 17:54:06.393  prism: Info: deviceId: 0x0000
+8/15 17:54:06.393  prism: Info: subsystemVendorId: 0x0000
+8/15 17:54:06.393  prism: Info: subsystemId: 0x0000
+8/15 17:54:06.393  prism: Info: revisionId: 0x00
+8/15 17:54:06.393  prism: Info: type: Discrete
+8/15 17:54:06.393  prism: Info: luid: 000000000000065e
+8/15 17:54:06.393  prism: Info: index: 0
+8/15 17:54:06.394  prism: Info: api: Metal
+8/15 17:54:06.394  prism: Info: macOS_Version: 101500
+8/15 17:54:06.394  prism: Info: mtlVersion: 6
+8/15 17:54:06.394  prism: Info: macOS_GPUFamily: 2
+8/15 17:54:06.394  prism: Info: preferredShaderModel: macOS_Mtl22
+8/15 17:54:06.394  prism: Info: supportedShaderModels:
+8/15 17:54:06.394  prism: Info:   macOS_Mtl11
+8/15 17:54:06.394  prism: Info:   macOS_Mtl12
+8/15 17:54:06.394  prism: Info:   macOS_Mtl20
+8/15 17:54:06.394  prism: Info:   macOS_Mtl21
+8/15 17:54:06.394  prism: Info:   macOS_Mtl22
+8/15 17:54:06.394  prism: Info: maxBufferSize: 4294967295
+8/15 17:54:06.394  prism: Info: max1dTextureSize: 16384
+8/15 17:54:06.394  prism: Info: max2dTextureSize: 16384
+8/15 17:54:06.394  prism: Info: maxCubeTextureSize: 16384
+8/15 17:54:06.394  prism: Info: max3dTextureSize: 2048
+8/15 17:54:06.394  prism: Info: maxArrayLayers: 2048
+8/15 17:54:06.394  prism: Info: maxConstantBufferRange: 65536
+8/15 17:54:06.394  prism: Info: maxTypedBufferRange: 4294967295
+8/15 17:54:06.394  prism: Info: maxStructuredBufferRange: 4294967295
+8/15 17:54:06.394  prism: Info: constantBufferOffsetAlign: 256
+8/15 17:54:06.394  prism: Info: typedBufferOffsetAlign: 16
+8/15 17:54:06.394  prism: Info: structuredBufferOffsetAlign: 16
+8/15 17:54:06.394  prism: Info: drawIndirectArgsAlign: 4
+8/15 17:54:06.394  prism: Info: dispatchIndirectArgsAlign: 4
+8/15 17:54:06.394  prism: Info: bufferTextureCopyRowPitchAlign: 256
+8/15 17:54:06.394  prism: Info: bufferTextureCopyOffsetAlign: 1024
+8/15 17:54:06.394  prism: Info: maxAnisotropy: 16
+8/15 17:54:06.394  prism: Info: maxColorAttachments: 8
+8/15 17:54:06.394  prism: Info: maxVertexShaderAttributes: 31
+8/15 17:54:06.394  prism: Info: maxViewportExtent: 16384x16384
+8/15 17:54:06.394  prism: Info: minViewportBounds: -32768
+8/15 17:54:06.394  prism: Info: maxViewportBounds: 32767
+8/15 17:54:06.394  prism: Info: minLodBias: 0
+8/15 17:54:06.394  prism: Info: maxLodBias: 0
+8/15 17:54:06.394  prism: Info: maxLodSnap: 0
+8/15 17:54:06.394  prism: Info: shaderRWTier: 5
+8/15 17:54:06.394  prism: Info: resourceBindingTier: 0
+8/15 17:54:06.394  prism: Info: resourceHeapTier: 0
+8/15 17:54:06.394  prism: Info: raytracingTier: 0
+8/15 17:54:06.394  prism: Info: minMaxFilterOps: 0
+8/15 17:54:06.394  prism: Info: mirrorOnce: 0
+8/15 17:54:06.394  prism: Info: borderColor: 0
+8/15 17:54:06.394  prism: Info: minLod: 1
+8/15 17:54:06.394  prism: Info: maxLod: 1
+8/15 17:54:06.394  prism: Info: fractionalMinLod: 1
+8/15 17:54:06.394  prism: Info: lodBias: 0
+8/15 17:54:06.394  prism: Info: dualSrcBlend: 1
+8/15 17:54:06.394  prism: Info: separateAlphaBlend: 1
+8/15 17:54:06.394  prism: Info: alphaToCoverage: 1
+8/15 17:54:06.394  prism: Info: independentBlend: 1
+8/15 17:54:06.394  prism: Info: wireframe: 1
+8/15 17:54:06.394  prism: Info: depthBiasClamp: 1
+8/15 17:54:06.394  prism: Info: depthClamp: 1
+8/15 17:54:06.394  prism: Info: depthBoundsTest: 0
+8/15 17:54:06.394  prism: Info: geometryShader: 0
+8/15 17:54:06.394  prism: Info: tessellationShader: 0
+8/15 17:54:06.394  prism: Info: computeShader: 1
+8/15 17:54:06.394  prism: Info: programmableSamplePositions: 1
+8/15 17:54:06.394  prism: Info: instancing: 1
+8/15 17:54:06.394  prism: Info: baseVertex: 1
+8/15 17:54:06.394  prism: Info: baseInstance: 1
+8/15 17:54:06.394  prism: Info: drawIndirect: 1
+8/15 17:54:06.394  prism: Info: drawIndirectBaseInstance: 1
+8/15 17:54:06.394  prism: Info: deviceLocalConstantBufferOffsets: 1
+8/15 17:54:06.394  prism: Info: occlusionQueries: 1
+8/15 17:54:06.394  prism: Info: countingOcclusionQueries: 1
+8/15 17:54:06.394  prism: Info: rasterOrderViews: 0
+8/15 17:54:06.394  prism: Info: exclusiveFullscreen: 0
+8/15 17:54:06.394  prism: Info: uma: 0
+8/15 17:54:07.965  Error (UI\FrameDef\UI\CommandBar.fdf:66): Expected ",", but found "}"
+8/15 17:54:08.180  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/cad0aa8d51c6c228332fdb2b70507bed1836f7b4/(2)BrightwaterOasis.w3x
+8/15 17:54:08.186  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/7274776a3f6585f2530e42c342d77449dbb959d9/(6)StranglethornVale.w3x
+8/15 17:54:08.187  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/e513dcef1fca2cdb22b1f61764dc1779783ed439/(4)Deathrose.w3x
+8/15 17:54:08.187  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/956c309e026f97f16304f1673ee4d6bca4668ccc/(2)NorthernIsles.w3x
+8/15 17:54:08.188  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:08.189  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/98288ddc4f333ee0324afd3b8f207ee07caec858/(4)TidewaterGlades_LV.w3x
+8/15 17:54:08.189  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.1a_Team_OZE .w3x
+8/15 17:54:08.190  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/7b993b67bdfe4048d37fab6040fad3f93437f4b2/(2)SwampedTemple.w3x
+8/15 17:54:08.191  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/14fd6ed089d6cc07166d5d5f429f0fab83f5e46b/(2)ConcealedHill.w3x
+8/15 17:54:08.191  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/951946975093b63d3501396f9e6f33966d22f75f/(6)UpperKingdom.w3x
+8/15 17:54:08.192  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/9c8963d07e5d9df69a4ad8ef2e6dce1ae15cfeef/(4)CentaurGrove.w3x
+8/15 17:54:08.192  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NWU_S3_B14_Edit2.w3x
+8/15 17:54:08.193  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/7a03d4e8419270792d3b09102f757794fc00861d/(6)NeonCity.w3x
+8/15 17:54:08.194  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/6bd4ebfb9bc64a9f7ce845909d815cd23a91f18f/(6)Guardians.w3x
+8/15 17:54:08.195  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Element TD 4.3d beta 6.w3x
+8/15 17:54:08.195  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/8b6cb2b88c0eb1e06bad6b9c0ba323ae7fcf97fe/(6)RuinsOfStratholme.w3x
+8/15 17:54:08.196  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/a10c4d07968c27fddfe886cfd3fa9be37e9e9514/(8)Feralas_LV.w3x
+8/15 17:54:08.197  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/ab2ddfdd2593d95f99a1761614a4e38f487a2e34/(4)SynergyBigPaved.w3x
+8/15 17:54:08.197  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/61c8151356b2ea5142cfb5d338a5920f2e1892d1/(8)GoldRush.w3x
+8/15 17:54:08.198  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/bea03c728fc5adfc6833a432d26fa323977e5d44/(5)CircleofFallenHeroes.w3x
+8/15 17:54:08.199  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/456c74ace47d8d18360b48484df975638b970c66/(2)EchoIsles.w3x
+8/15 17:54:08.199  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/671ef2d674b962d8dab57b148c30fdf050a247e5/(4)LostTemple_LV.w3x
+8/15 17:54:08.200  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/04f67595a98141f0dbf9951401866fd100367124/(3)NomadIsles.w3x
+8/15 17:54:08.201  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/d8aa425e619005400682a680409c13a446e6a308/(4)GreenvilleWoods.w3x
+8/15 17:54:08.201  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/7749df523f535f03c3f5b5e1e663338363b04d05/(8)MarketSquare.w3x
+8/15 17:54:08.202  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/b0de93f0f2b12eb280e31d1604d8a29cbefd93a3/(6)GnollWood.w3x
+8/15 17:54:08.203  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/8ed916737dc5d566db70723b4962f0c0c2bb90a9/(4)HillsbradCreek.w3x
+8/15 17:54:08.203  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/83d506c3d526410cb32295b6501d3f7384b70b31/(8)Northshire_LV.w3x
+8/15 17:54:08.204  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/f1a2bb6d1a8849c78178d8e88a79272ba5050ea2/(6)ThunderLake_LV.w3x
+8/15 17:54:08.205  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/baed33b772e0406de75c6b9e0f8ae7f99e4bd3fd/(6)TimbermawHold.w3x
+8/15 17:54:08.205  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/ce90bcf9fda3b4cecc38652d49c41147b21280a7/(8)Battleground_LV.w3x
+8/15 17:54:08.206  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/71fcb4b3973a24301317662a50c7a34defdbff74/(6)Monsoon_LV.w3x
+8/15 17:54:08.207  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/30fe439c6ce8fb110265241544a5cb9a5486031e/(8)TwilightRuins_LV.w3x
+8/15 17:54:08.207  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_3.46k.w3x
+8/15 17:54:08.208  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/c997162a57be71fe13d67339e9da39514e4edeb0/(8)Deadlock_LV.w3x
+8/15 17:54:08.209  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NWU_1.4.6A.w3x
+8/15 17:54:08.225  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/8bc17c27af6833214866898bc5162ba1a9a97aaf/(8)Mur'gulOasis_LV.w3x
+8/15 17:54:08.226  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/93cda6f77054b8b071dae5f60b25d4e08a0e9822/(4)FountainOfManipulation.w3x
+8/15 17:54:08.227  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/38f93342c0803a02b1c7f5c3cc4e18178f09079c/(4)FurbolgMountain.w3x
+8/15 17:54:08.228  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/ac729696e5728a111279cd3e398501ecc40f41c1/(6)BloodstoneMesa_LV.w3x
+8/15 17:54:08.228  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/ddee38acb17ca0c372e271ef0dbe684a78d42eb4/(2)Amazonia.w3x
+8/15 17:54:08.229  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/180b80ffa19d78f30b486ae9b696512c03a79240/(2)TerenasStand_LV.w3x
+8/15 17:54:08.230  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/9524abb8e35ce7b158bfa4d4b8734234d6073ca5/(2)LastRefuge.w3x
+8/15 17:54:08.230  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.2_Team_OZE.w3x
+8/15 17:54:08.231  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/8649aae5ea520dc14f7f695d19ede773f1d0c2ef/(8)NerubianPassage.w3x
+8/15 17:54:08.232  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/90c1f3c8a9837ce71f38211a1595a2dfa875e2b1/(6)SilverpineForest.w3x
+8/15 17:54:08.232  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/c9cd9e731e68d7cc7567de6bb51d21ff2b816d2a/(4)Avalanche_LV.w3x
+8/15 17:54:08.233  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/0d72662ca44399bd0e211e089246a31c56759477/(8)Sanctuary_LV.w3x
+8/15 17:54:08.234  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/3269a413f617e7630eecb6c2fb8b331e54d0a457/(8)GolemsInTheMist_LV.w3x
+8/15 17:54:08.234  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/885d951a51ed4486cc1c9d355e8ab3596ec5318d/(4)TwistedMeadows.w3x
+8/15 17:54:08.235  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/1e663c44e3e4e85f4e1845ef763b0a35ed98bf2c/(4)TurtleRock.w3x
+8/15 17:54:08.236  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/31ab2f9b640c5e610e06238e7027c78290a483ad/(8)NorthernFelwood.w3x
+8/15 17:54:08.237  Opening map - Maps/(10)dustwallowkeys.w3m
+8/15 17:54:08.239  Opening map - Maps/(12)divideandconquer.w3m
+8/15 17:54:08.240  Opening map - Maps/(12)icecrown.w3m
+8/15 17:54:08.242  Opening map - Maps/(2)bootybay.w3m
+8/15 17:54:08.242  Opening map - Maps/(2)harrow.w3m
+8/15 17:54:08.243  Opening map - Maps/(2)hillsofglory.w3m
+8/15 17:54:08.244  Opening map - Maps/(2)ogremound.w3m
+8/15 17:54:08.244  Opening map - Maps/(2)plunderisle.w3m
+8/15 17:54:08.245  Opening map - Maps/(3)forestwalk.w3m
+8/15 17:54:08.246  Opening map - Maps/(3)isleofdread.w3m
+8/15 17:54:08.247  Opening map - Maps/(3)nighthaven.w3m
+8/15 17:54:08.248  Opening map - Maps/(4)adrenaline.w3m
+8/15 17:54:08.248  Opening map - Maps/(4)borderlands.w3m
+8/15 17:54:08.249  Opening map - Maps/(4)deadlock.w3m
+8/15 17:54:08.250  Opening map - Maps/(4)deadwaterdrop.w3m
+8/15 17:54:08.251  Opening map - Maps/(4)dragonmountain.w3m
+8/15 17:54:08.252  Opening map - Maps/(4)duskwood.w3m
+8/15 17:54:08.253  Opening map - Maps/(4)frostsabre.w3m
+8/15 17:54:08.254  Opening map - Maps/(4)harvestmoon.w3m
+8/15 17:54:08.255  Opening map - Maps/(4)hearttoheart.w3m
+8/15 17:54:08.256  Opening map - Maps/(4)legends.w3m
+8/15 17:54:08.257  Opening map - Maps/(4)losttemple.w3m
+8/15 17:54:08.258  Opening map - Maps/(4)mysticisles.w3m
+8/15 17:54:08.259  Opening map - Maps/(4)tranquilpaths.w3m
+8/15 17:54:08.260  Opening map - Maps/(5)theglaive.w3m
+8/15 17:54:08.260  Opening map - Maps/(6)darkforest.w3m
+8/15 17:54:08.261  Opening map - Maps/(6)dragonfire.w3m
+8/15 17:54:08.263  Opening map - Maps/(6)drywatergulch.w3m
+8/15 17:54:08.263  Opening map - Maps/(6)gnollwood.w3m
+8/15 17:54:08.264  Opening map - Maps/(6)moonglade.w3m
+8/15 17:54:08.265  Opening map - Maps/(6)scorchedbasin.w3m
+8/15 17:54:08.266  Opening map - Maps/(6)stromguarde.w3m
+8/15 17:54:08.267  Opening map - Maps/(6)swampofsorrows.w3m
+8/15 17:54:08.268  Opening map - Maps/(6)timbermawhold.w3m
+8/15 17:54:08.269  Opening map - Maps/(8)battleground.w3m
+8/15 17:54:08.270  Opening map - Maps/(8)blastedlands.w3m
+8/15 17:54:08.271  Opening map - Maps/(8)bloodvenomfalls.w3m
+8/15 17:54:08.272  Opening map - Maps/(8)gardenofwar.w3m
+8/15 17:54:08.273  Opening map - Maps/(8)golemsinthemist.w3m
+8/15 17:54:08.274  Opening map - Maps/(8)petrifiedforest.w3m
+8/15 17:54:08.275  Opening map - Maps/(8)plaguelands.w3m
+8/15 17:54:08.276  Opening map - Maps/(8)plainsofsnow.w3m
+8/15 17:54:08.277  Opening map - Maps/(8)richmansgarden.w3m
+8/15 17:54:08.278  Opening map - Maps/(8)thecrucible.w3m
+8/15 17:54:08.279  Opening map - Maps/(9)riverrun.w3m
+8/15 17:54:08.329  Activating WebUI
+8/15 17:54:13.126  Activating WebUI
+8/15 17:54:20.208  Activating WebUI
+8/15 17:54:21.563  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/ddee38acb17ca0c372e271ef0dbe684a78d42eb4/(2)Amazonia.w3x
+8/15 17:54:21.582  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/9524abb8e35ce7b158bfa4d4b8734234d6073ca5/(2)LastRefuge.w3x
+8/15 17:54:21.598  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/956c309e026f97f16304f1673ee4d6bca4668ccc/(2)NorthernIsles.w3x
+8/15 17:54:21.614  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/456c74ace47d8d18360b48484df975638b970c66/(2)EchoIsles.w3x
+8/15 17:54:21.618  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/1e663c44e3e4e85f4e1845ef763b0a35ed98bf2c/(4)TurtleRock.w3x
+8/15 17:54:21.623  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/cad0aa8d51c6c228332fdb2b70507bed1836f7b4/(2)BrightwaterOasis.w3x
+8/15 17:54:21.639  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/7b993b67bdfe4048d37fab6040fad3f93437f4b2/(2)SwampedTemple.w3x
+8/15 17:54:21.657  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/180b80ffa19d78f30b486ae9b696512c03a79240/(2)TerenasStand_LV.w3x
+8/15 17:54:21.662  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/885d951a51ed4486cc1c9d355e8ab3596ec5318d/(4)TwistedMeadows.w3x
+8/15 17:54:21.667  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/14fd6ed089d6cc07166d5d5f429f0fab83f5e46b/(2)ConcealedHill.w3x
+8/15 17:54:21.682  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/04f67595a98141f0dbf9951401866fd100367124/(3)NomadIsles.w3x
+8/15 17:54:25.706  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:54:25.706  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/City_TD_Team_v4.9.2.w3x
+8/15 17:54:25.707  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD 1.7 07.22.w3x
+8/15 17:54:25.707  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Boss Battle 1.4.5x(DesyncFixed).w3x
+8/15 17:54:25.762  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:54:25.762  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:54:25.824  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:54:25.824  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:54:27.827  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/War of the 12 Kingdoms 4..w3m
+8/15 17:54:27.828  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Speed Green TD NV.w3x
+8/15 17:54:27.828  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Footmen_vs_Grunts_6.3.9D.w3x
+8/15 17:54:27.829  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/2P Human09 v2.5.w3x
+8/15 17:54:27.829  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/LTA 1.63c.w3x
+8/15 17:54:27.830  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/KerbenogTDv2.34eLegends.w3x
+8/15 17:54:27.830  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/X3v3.69-970f.w3x
+8/15 17:54:27.830  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/opt-CoTN-RPG-1.33.18b.w3x
+8/15 17:54:27.830  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:54:27.830  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Broken Alliances 6.7a.w3x
+8/15 17:54:27.831  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_3.46k.w3x
+8/15 17:54:27.834  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/VampirismNewGen7.08b2.w3x
+8/15 17:54:27.834  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.3_Team_OZE.w3x
+8/15 17:54:27.834  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/2PRF_Human02_v4.1.w3x
+8/15 17:54:27.835  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v10.0.w3x
+8/15 17:54:27.835  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/LOTR Risk Strongholds Complete.w3x
+8/15 17:54:27.835  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/War of Races v0.87c~1.w3x
+8/15 17:54:27.835  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/(1)p1l1s_CF_2042.w3x
+8/15 17:54:27.835  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/BurbenogTDv2.34eLegends_1 (1).w3x
+8/15 17:54:27.836  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:27.836  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.3a_Team_OZE.w3x
+8/15 17:54:27.836  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Boss Battle 1.4.5x(DesyncFixed).w3x
+8/15 17:54:27.836  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/CHS_v1.9.30-beta5_fix3.w3x
+8/15 17:54:27.836  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:27.837  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.1a_Team_OZE.w3x
+8/15 17:54:27.837  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.2_Team_OZE.w3x
+8/15 17:54:27.839  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Evolution Tag 1.77.7 ( opt ).w3x
+8/15 17:54:27.839  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:54:27.840  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD HELL v3.97c.w3x
+8/15 17:54:27.840  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/w3c_NorthernIsles.w3x
+8/15 17:54:27.840  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Civilization Wars v3.9.4.w3x
+8/15 17:54:27.840  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:27.866  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/One Piece RD 10.799G Eng.w3x
+8/15 17:54:27.866  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD 1.7 07.22.w3x
+8/15 17:54:27.866  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/City_TD_Team_v4.9.2.w3x
+8/15 17:54:27.866  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/WW1 ISH 4.1q.w3x
+8/15 17:54:27.867  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/VampirismFire6.18.w3x
+8/15 17:54:28.851  Opening map - map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:28.852  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:28.853  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:28.882  Opening map - map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:28.883  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:28.883  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:30.518  Opening map - map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:30.518  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:30.518  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:30.545  Opening map - map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:30.545  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:30.545  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:32.188  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:34.946  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:36.453  Opening map - Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:36.464  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:38.724  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:39.245  Opening map - Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:54:44.137  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Evolution Tag 1.77.7 ( opt ).w3x
+8/15 17:54:44.139  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.3_Team_OZE.w3x
+8/15 17:54:44.139  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Civilization Wars v3.9.4.w3x
+8/15 17:54:44.139  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD 1.7 07.22.w3x
+8/15 17:54:44.140  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:44.140  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Footmen_vs_Grunts_6.3.9D.w3x
+8/15 17:54:44.140  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:44.140  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/opt-CoTN-RPG-1.33.18b.w3x
+8/15 17:54:44.141  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/p1l1s_CF_2041.w3x
+8/15 17:54:44.141  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/WW1 ISH 4.1q.w3x
+8/15 17:54:44.141  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/TheBlackRoadRPGv1.39b4.w3x
+8/15 17:54:44.141  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/KerbenogTDv2.34eLegends.w3x
+8/15 17:54:44.141  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD HELL v3.97c.w3x
+8/15 17:54:44.142  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/BurbenogTDv2.34eLegends_1 (1).w3x
+8/15 17:54:44.142  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/City_TD_Team_v4.9.2.w3x
+8/15 17:54:44.142  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Broken Alliances 6.7a.w3x
+8/15 17:54:44.142  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/War of Races v0.87c~1.w3x
+8/15 17:54:44.142  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/War of the 12 Kingdoms 4..w3m
+8/15 17:54:44.143  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/LOTR Risk Strongholds Complete.w3x
+8/15 17:54:44.143  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/2PRF_Human02_v4.1.w3x
+8/15 17:54:44.143  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/VampirismFire6.18.w3x
+8/15 17:54:44.143  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/(1)p1l1s_CF_2042.w3x
+8/15 17:54:44.143  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/One Piece RD 10.799G Eng.w3x
+8/15 17:54:44.144  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/CHS_v1.9.30-beta5_fix3.w3x
+8/15 17:54:44.144  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.3a_Team_OZE.w3x
+8/15 17:54:44.144  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/X3v3.69-970f.w3x
+8/15 17:54:44.144  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/2P Human09 v2.5.w3x
+8/15 17:54:44.144  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:54:44.144  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/w3c_NorthernIsles.w3x
+8/15 17:54:44.145  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:54:44.145  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/DotA_v6.86.36.w3x
+8/15 17:54:44.145  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/VampirismNewGen7.08b2.w3x
+8/15 17:54:44.145  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v10.0.w3x
+8/15 17:54:44.145  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Speed Green TD NV.w3x
+8/15 17:54:44.146  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/LTA 1.63c.w3x
+8/15 17:54:44.146  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.1a_Team_OZE.w3x
+8/15 17:54:44.191  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_3.46k.w3x
+8/15 17:54:48.952  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Evolution Tag 1.77.7 ( opt ).w3x
+8/15 17:54:48.952  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.3_Team_OZE.w3x
+8/15 17:54:48.952  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Civilization Wars v3.9.4.w3x
+8/15 17:54:48.953  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD 1.7 07.22.w3x
+8/15 17:54:48.953  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:48.953  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Footmen_vs_Grunts_6.3.9D.w3x
+8/15 17:54:48.953  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 17:54:48.953  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/opt-CoTN-RPG-1.33.18b.w3x
+8/15 17:54:48.954  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/p1l1s_CF_2041.w3x
+8/15 17:54:48.954  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/WW1 ISH 4.1q.w3x
+8/15 17:54:48.954  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/TheBlackRoadRPGv1.39b4.w3x
+8/15 17:54:48.954  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/KerbenogTDv2.34eLegends.w3x
+8/15 17:54:48.954  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD HELL v3.97c.w3x
+8/15 17:54:48.954  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/BurbenogTDv2.34eLegends_1 (1).w3x
+8/15 17:54:48.955  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/City_TD_Team_v4.9.2.w3x
+8/15 17:54:48.955  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Broken Alliances 6.7a.w3x
+8/15 17:54:48.955  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/War of Races v0.87c~1.w3x
+8/15 17:54:48.955  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/War of the 12 Kingdoms 4..w3m
+8/15 17:54:48.955  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/LOTR Risk Strongholds Complete.w3x
+8/15 17:54:48.956  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/2PRF_Human02_v4.1.w3x
+8/15 17:54:48.956  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/VampirismFire6.18.w3x
+8/15 17:54:48.956  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/(1)p1l1s_CF_2042.w3x
+8/15 17:54:48.956  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/One Piece RD 10.799G Eng.w3x
+8/15 17:54:48.956  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/CHS_v1.9.30-beta5_fix3.w3x
+8/15 17:54:48.956  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.3a_Team_OZE.w3x
+8/15 17:54:48.957  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/X3v3.69-970f.w3x
+8/15 17:54:48.957  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/2P Human09 v2.5.w3x
+8/15 17:54:48.957  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:54:48.957  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/w3c_NorthernIsles.w3x
+8/15 17:54:48.957  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:54:48.957  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/DotA_v6.86.36.w3x
+8/15 17:54:48.958  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/VampirismNewGen7.08b2.w3x
+8/15 17:54:48.958  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v10.0.w3x
+8/15 17:54:48.958  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Speed Green TD NV.w3x
+8/15 17:54:48.958  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/LTA 1.63c.w3x
+8/15 17:54:48.958  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.1a_Team_OZE.w3x
+8/15 17:54:58.759  Opening map - map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:54:58.760  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:54:58.760  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:54:58.799  Opening map - map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:54:58.800  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:54:58.800  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/map-preview//Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Troll and Elves Speed x2.w3m
+8/15 17:55:07.416  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD 1.7 07.22.w3x
+8/15 17:55:07.416  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/City_TD_Team_v4.9.2.w3x
+8/15 17:55:07.417  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD Crazy v9.8.w3x
+8/15 17:55:07.417  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Heroic Origins Galaxy TD v12.0FIX.w3x
+8/15 17:55:07.440  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Heroic Origins Galaxy TD v12.0FIX.w3x
+8/15 17:55:07.440  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Heroic Origins Galaxy TD v12.0FIX.w3x
+8/15 17:55:07.459  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Heroic Origins Galaxy TD v12.0FIX.w3x
+8/15 17:55:07.459  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Heroic Origins Galaxy TD v12.0FIX.w3x
+8/15 17:55:10.203  Opening map - Maps/(10)dustwallowkeys.w3m
+8/15 17:55:10.211  Opening map - Maps/(12)divideandconquer.w3m
+8/15 17:55:10.219  Opening map - Maps/(12)icecrown.w3m
+8/15 17:55:10.227  Opening map - Maps/(2)bootybay.w3m
+8/15 17:55:10.232  Opening map - Maps/(2)harrow.w3m
+8/15 17:55:10.237  Opening map - Maps/(2)hillsofglory.w3m
+8/15 17:55:10.242  Opening map - Maps/(2)ogremound.w3m
+8/15 17:55:10.246  Opening map - Maps/(2)plunderisle.w3m
+8/15 17:55:10.252  Opening map - Maps/(3)forestwalk.w3m
+8/15 17:55:10.258  Opening map - Maps/(3)isleofdread.w3m
+8/15 17:55:10.264  Opening map - Maps/(3)nighthaven.w3m
+8/15 17:55:10.269  Opening map - Maps/(4)adrenaline.w3m
+8/15 17:55:10.273  Opening map - Maps/(4)borderlands.w3m
+8/15 17:55:10.278  Opening map - Maps/(4)deadlock.w3m
+8/15 17:55:10.284  Opening map - Maps/(4)deadwaterdrop.w3m
+8/15 17:55:10.289  Opening map - Maps/(4)dragonmountain.w3m
+8/15 17:55:10.294  Opening map - Maps/(4)duskwood.w3m
+8/15 17:55:10.301  Opening map - Maps/(4)frostsabre.w3m
+8/15 17:55:10.307  Opening map - Maps/(4)harvestmoon.w3m
+8/15 17:55:10.313  Opening map - Maps/(4)hearttoheart.w3m
+8/15 17:55:10.318  Opening map - Maps/(4)legends.w3m
+8/15 17:55:10.323  Opening map - Maps/(4)losttemple.w3m
+8/15 17:55:10.330  Opening map - Maps/(4)mysticisles.w3m
+8/15 17:55:10.336  Opening map - Maps/(4)tranquilpaths.w3m
+8/15 17:55:10.343  Opening map - Maps/(5)theglaive.w3m
+8/15 17:55:10.349  Opening map - Maps/(6)darkforest.w3m
+8/15 17:55:10.355  Opening map - Maps/(6)dragonfire.w3m
+8/15 17:55:10.362  Opening map - Maps/(6)drywatergulch.w3m
+8/15 17:55:10.368  Opening map - Maps/(6)gnollwood.w3m
+8/15 17:55:10.375  Opening map - Maps/(6)moonglade.w3m
+8/15 17:55:10.381  Opening map - Maps/(6)scorchedbasin.w3m
+8/15 17:55:10.386  Opening map - Maps/(6)stromguarde.w3m
+8/15 17:55:10.392  Opening map - Maps/(6)swampofsorrows.w3m
+8/15 17:55:10.398  Opening map - Maps/(6)timbermawhold.w3m
+8/15 17:55:10.404  Opening map - Maps/(8)battleground.w3m
+8/15 17:55:10.410  Opening map - Maps/(8)blastedlands.w3m
+8/15 17:55:10.416  Opening map - Maps/(8)bloodvenomfalls.w3m
+8/15 17:55:10.423  Opening map - Maps/(8)gardenofwar.w3m
+8/15 17:55:10.430  Opening map - Maps/(8)golemsinthemist.w3m
+8/15 17:55:10.436  Opening map - Maps/(8)petrifiedforest.w3m
+8/15 17:55:10.443  Opening map - Maps/(8)plaguelands.w3m
+8/15 17:55:10.450  Opening map - Maps/(8)plainsofsnow.w3m
+8/15 17:55:10.456  Opening map - Maps/(8)richmansgarden.w3m
+8/15 17:55:10.462  Opening map - Maps/(8)thecrucible.w3m
+8/15 17:55:10.469  Opening map - Maps/(9)riverrun.w3m
+8/15 17:55:11.509  Opening map - Maps/(2)bootybay.w3m
+8/15 17:55:15.060  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.1a_Team_OZE .w3x
+8/15 17:55:15.065  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NWU_S3_B14_Edit2.w3x
+8/15 17:55:15.079  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Element TD 4.3d beta 6.w3x
+8/15 17:55:15.081  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NWU_1.4.6A.w3x
+8/15 17:55:18.129  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:55:22.294  Opening map - Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:55:22.300  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:55:32.381  Activating WebUI
+8/15 17:55:32.396  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/twrpgv0.61m_eng.w3x
+8/15 17:55:56.021  model creation failed - .mdl1.mdl
+8/15 17:55:56.120  model creation failed - .mdl0.mdl
+8/15 17:55:57.638  model creation failed - .mdl1.mdl
+8/15 17:55:57.638  model creation failed - .mdl1.mdl
+8/15 17:55:57.824  model creation failed - .mdl0.mdl
+8/15 17:55:57.826  model creation failed - .mdl1.mdl
+8/15 17:55:57.826  model creation failed - .mdl0.mdl
+8/15 17:55:57.836  model creation failed - .mdl2.mdl
+8/15 17:55:57.856  model creation failed - .mdl2.mdl
+8/15 17:55:57.857  model creation failed - .mdl1.mdl
+8/15 17:55:57.874  model creation failed - .mdl2.mdl
+8/15 17:55:57.880  model creation failed - .mdl2.mdl
+8/15 17:55:57.937  model creation failed - .mdl2.mdl
+8/15 17:55:57.937  model creation failed - .mdl1.mdl
+8/15 17:55:57.942  model creation failed - .mdl1.mdl
+8/15 17:55:57.081  model creation failed - .mdl1.mdl
+8/15 17:55:57.119  model creation failed - .mdl2.mdl
+8/15 17:55:57.167  model creation failed - .mdl1.mdl
+8/15 17:55:57.184  model creation failed - .mdl0.mdl
+8/15 17:55:57.184  model creation failed - .mdl0.mdl
+8/15 17:55:57.184  model creation failed - .mdl2.mdl
+8/15 17:55:57.348  model creation failed - .mdl1.mdl
+8/15 17:55:57.391  model creation failed - .mdl0.mdl
+8/15 17:55:57.391  model creation failed - .mdl2.mdl
+8/15 17:55:57.391  model creation failed - .mdl1.mdl
+8/15 17:55:57.411  model creation failed - .mdl0.mdl
+8/15 17:55:57.411  model creation failed - .mdl0.mdl
+8/15 17:55:57.411  model creation failed - .mdl1.mdl
+8/15 17:55:57.412  model creation failed - .mdl2.mdl
+8/15 17:55:57.412  model creation failed - .mdl0.mdl
+8/15 17:55:57.412  model creation failed - .mdl0.mdl
+8/15 17:55:57.412  model creation failed - .mdl0.mdl
+8/15 17:55:57.412  model creation failed - .mdl2.mdl
+8/15 17:55:57.412  model creation failed - .mdl0.mdl
+8/15 17:55:57.412  model creation failed - .mdl2.mdl
+8/15 17:55:57.412  model creation failed - .mdl0.mdl
+8/15 17:55:57.412  model creation failed - .mdl2.mdl
+8/15 17:55:57.412  model creation failed - .mdl1.mdl
+8/15 17:55:58.486  model creation failed - .mdl1.mdl
+8/15 17:55:58.531  model creation failed - .mdl0.mdl
+8/15 17:55:58.536  model creation failed - .mdl2.mdl
+8/15 17:55:58.537  model creation failed - .mdl2.mdl
+8/15 17:55:58.549  model creation failed - .mdl2.mdl
+8/15 17:55:58.549  model creation failed - .mdl1.mdl
+8/15 17:55:58.576  model creation failed - .mdl0.mdl
+8/15 17:55:58.584  model creation failed - .mdl2.mdl
+8/15 17:55:58.591  model creation failed - .mdl2.mdl
+8/15 17:55:58.595  model creation failed - .mdl1.mdl
+8/15 17:55:58.908  model creation failed - .mdl2.mdl
+8/15 17:55:58.908  model creation failed - .mdl1.mdl
+8/15 17:55:58.949  model creation failed - .mdl2.mdl
+8/15 17:55:58.996  model creation failed - .mdl0.mdl
+8/15 17:55:58.996  model creation failed - .mdl0.mdl
+8/15 17:55:58.998  model creation failed - .mdl2.mdl
+8/15 17:55:58.042  model creation failed - .mdl0.mdl
+8/15 17:55:58.043  model creation failed - .mdl2.mdl
+8/15 17:55:58.091  model creation failed - .mdl2.mdl
+8/15 17:55:58.120  model creation failed - .mdl0.mdl
+8/15 17:55:58.122  model creation failed - .mdl2.mdl
+8/15 17:55:58.131  model creation failed - .mdl0.mdl
+8/15 17:55:58.131  model creation failed - .mdl1.mdl
+8/15 17:55:58.131  model creation failed - .mdl2.mdl
+8/15 17:55:58.186  model creation failed - .mdl0.mdl
+8/15 17:55:58.188  model creation failed - .mdl0.mdl
+8/15 17:55:58.210  model creation failed - .mdl1.mdl
+8/15 17:55:58.212  model creation failed - .mdl0.mdl
+8/15 17:55:58.236  model creation failed - .mdl1.mdl
+8/15 17:55:58.238  model creation failed - .mdl2.mdl
+8/15 17:55:58.238  model creation failed - .mdl1.mdl
+8/15 17:55:58.238  model creation failed - .mdl0.mdl
+8/15 17:55:58.238  model creation failed - .mdl0.mdl
+8/15 17:55:58.239  model creation failed - .mdl2.mdl
+8/15 17:55:58.256  model creation failed - .mdl2.mdl
+8/15 17:55:58.271  model creation failed - .mdl1.mdl
+8/15 17:55:59.554  model creation failed - .mdl2.mdl
+8/15 17:55:59.590  model creation failed - .mdl0.mdl
+8/15 17:55:59.656  model creation failed - .mdl2.mdl
+8/15 17:55:59.675  model creation failed - .mdl1.mdl
+8/15 17:55:59.749  model creation failed - .mdl0.mdl
+8/15 17:55:59.753  model creation failed - .mdl1.mdl
+8/15 17:55:59.753  model creation failed - .mdl2.mdl
+8/15 17:55:59.762  model creation failed - .mdl1.mdl
+8/15 17:55:59.763  model creation failed - .mdl2.mdl
+8/15 17:55:59.765  model creation failed - .mdl0.mdl
+8/15 17:55:59.775  model creation failed - .mdl0.mdl
+8/15 17:55:59.775  model creation failed - .mdl0.mdl
+8/15 17:55:59.796  model creation failed - .mdl0.mdl
+8/15 17:55:59.796  model creation failed - .mdl1.mdl
+8/15 17:55:59.803  model creation failed - .mdl0.mdl
+8/15 17:55:59.809  model creation failed - .mdl1.mdl
+8/15 17:55:59.822  model creation failed - .mdl2.mdl
+8/15 17:55:59.894  model creation failed - .mdl0.mdl
+8/15 17:55:59.895  model creation failed - .mdl0.mdl
+8/15 17:55:59.110  model creation failed - .mdl1.mdl
+8/15 17:55:59.112  model creation failed - .mdl0.mdl
+8/15 17:55:59.113  model creation failed - .mdl2.mdl
+8/15 17:55:59.114  model creation failed - .mdl1.mdl
+8/15 17:55:59.159  model creation failed - .mdl0.mdl
+8/15 17:55:59.159  model creation failed - .mdl1.mdl
+8/15 17:55:59.159  model creation failed - .mdl0.mdl
+8/15 17:55:59.160  model creation failed - .mdl2.mdl
+8/15 17:55:59.165  model creation failed - .mdl0.mdl
+8/15 17:55:59.181  model creation failed - .mdl0.mdl
+8/15 17:55:59.201  model creation failed - .mdl1.mdl
+8/15 17:55:59.223  model creation failed - .mdl2.mdl
+8/15 17:55:59.223  model creation failed - .mdl0.mdl
+8/15 17:55:59.252  model creation failed - .mdl1.mdl
+8/15 17:55:59.252  model creation failed - .mdl2.mdl
+8/15 17:55:59.259  model creation failed - .mdl2.mdl
+8/15 17:55:59.259  model creation failed - .mdl1.mdl
+8/15 17:55:59.260  model creation failed - .mdl0.mdl
+8/15 17:55:59.260  model creation failed - .mdl2.mdl
+8/15 17:55:59.260  model creation failed - .mdl0.mdl
+8/15 17:55:59.267  model creation failed - .mdl2.mdl
+8/15 17:55:59.267  model creation failed - .mdl2.mdl
+8/15 17:55:59.267  model creation failed - .mdl2.mdl
+8/15 17:55:59.277  model creation failed - .mdl2.mdl
+8/15 17:55:59.277  model creation failed - .mdl0.mdl
+8/15 17:55:59.277  model creation failed - .mdl2.mdl
+8/15 17:55:59.305  model creation failed - .mdl0.mdl
+8/15 17:55:59.306  model creation failed - .mdl2.mdl
+8/15 17:55:59.306  model creation failed - .mdl1.mdl
+8/15 17:55:59.319  model creation failed - .mdl0.mdl
+8/15 17:55:59.397  model creation failed - .mdl2.mdl
+8/15 17:55:59.397  model creation failed - .mdl0.mdl
+8/15 17:55:59.397  model creation failed - .mdl1.mdl
+8/15 17:55:59.398  model creation failed - .mdl2.mdl
+8/15 17:55:59.399  model creation failed - .mdl1.mdl
+8/15 17:55:59.411  model creation failed - .mdl2.mdl
+8/15 17:55:59.412  model creation failed - .mdl2.mdl
+8/15 17:55:59.413  model creation failed - .mdl2.mdl
+8/15 17:55:59.413  model creation failed - .mdl0.mdl
+8/15 17:55:59.413  model creation failed - .mdl1.mdl
+8/15 17:55:59.414  model creation failed - .mdl1.mdl
+8/15 17:55:59.414  model creation failed - .mdl1.mdl
+8/15 17:55:59.439  model creation failed - .mdl2.mdl
+8/15 17:55:59.440  model creation failed - .mdl0.mdl
+8/15 17:55:59.446  model creation failed - .mdl0.mdl
+8/15 17:56:00.503  model creation failed - .mdl0.mdl
+8/15 17:56:00.503  model creation failed - .mdl1.mdl
+8/15 17:56:00.504  model creation failed - .mdl0.mdl
+8/15 17:56:00.514  model creation failed - .mdl2.mdl
+8/15 17:56:00.518  model creation failed - .mdl1.mdl
+8/15 17:56:00.518  model creation failed - .mdl0.mdl
+8/15 17:56:00.633  model creation failed - .mdl0.mdl
+8/15 17:56:00.285  model creation failed - .mdl1.mdl
+8/15 17:56:00.285  model creation failed - .mdl2.mdl
+8/15 17:56:00.286  model creation failed - .mdl1.mdl
+8/15 17:56:00.286  model creation failed - .mdl2.mdl
+8/15 17:56:00.286  model creation failed - .mdl0.mdl
+8/15 17:56:00.286  model creation failed - .mdl2.mdl
+8/15 17:56:00.289  model creation failed - .mdl2.mdl
+8/15 17:56:00.405  model creation failed - .mdl0.mdl
+8/15 17:56:00.405  model creation failed - .mdl1.mdl
+8/15 17:56:00.408  model creation failed - .mdl1.mdl
+8/15 17:56:00.409  model creation failed - .mdl2.mdl
+8/15 17:56:00.409  model creation failed - .mdl0.mdl
+8/15 17:56:00.409  model creation failed - .mdl2.mdl
+8/15 17:56:01.640  model creation failed - .mdl1.mdl
+8/15 17:56:01.651  model creation failed - .mdl2.mdl
+8/15 17:56:01.653  model creation failed - .mdl1.mdl
+8/15 17:56:01.655  model creation failed - .mdl2.mdl
+8/15 17:56:01.718  model creation failed - .mdl1.mdl
+8/15 17:56:01.756  model creation failed - .mdl1.mdl
+8/15 17:56:01.758  model creation failed - .mdl1.mdl
+8/15 17:56:01.758  model creation failed - .mdl2.mdl
+8/15 17:56:01.758  model creation failed - .mdl0.mdl
+8/15 17:56:01.758  model creation failed - .mdl2.mdl
+8/15 17:56:01.759  model creation failed - .mdl2.mdl
+8/15 17:56:01.759  model creation failed - .mdl2.mdl
+8/15 17:56:01.759  model creation failed - .mdl1.mdl
+8/15 17:56:01.759  model creation failed - .mdl1.mdl
+8/15 17:56:01.769  model creation failed - .mdl0.mdl
+8/15 17:56:01.769  model creation failed - .mdl1.mdl
+8/15 17:56:01.769  model creation failed - .mdl2.mdl
+8/15 17:56:01.769  model creation failed - .mdl0.mdl
+8/15 17:56:01.769  model creation failed - .mdl0.mdl
+8/15 17:56:01.769  model creation failed - .mdl2.mdl
+8/15 17:56:01.770  model creation failed - .mdl2.mdl
+8/15 17:56:01.770  model creation failed - .mdl0.mdl
+8/15 17:56:01.770  model creation failed - .mdl2.mdl
+8/15 17:56:01.770  model creation failed - .mdl0.mdl
+8/15 17:56:01.770  model creation failed - .mdl0.mdl
+8/15 17:56:01.770  model creation failed - .mdl2.mdl
+8/15 17:56:01.771  model creation failed - .mdl2.mdl
+8/15 17:56:01.771  model creation failed - .mdl2.mdl
+8/15 17:56:01.771  model creation failed - .mdl0.mdl
+8/15 17:56:01.771  model creation failed - .mdl2.mdl
+8/15 17:56:01.771  model creation failed - .mdl2.mdl
+8/15 17:56:01.771  model creation failed - .mdl2.mdl
+8/15 17:56:01.771  model creation failed - .mdl2.mdl
+8/15 17:56:01.776  model creation failed - .mdl1.mdl
+8/15 17:56:01.776  model creation failed - .mdl1.mdl
+8/15 17:56:01.776  model creation failed - .mdl0.mdl
+8/15 17:56:01.776  model creation failed - .mdl0.mdl
+8/15 17:56:01.776  model creation failed - .mdl2.mdl
+8/15 17:56:01.776  model creation failed - .mdl2.mdl
+8/15 17:56:01.776  model creation failed - .mdl2.mdl
+8/15 17:56:01.777  model creation failed - .mdl2.mdl
+8/15 17:56:01.777  model creation failed - .mdl2.mdl
+8/15 17:56:01.777  model creation failed - .mdl1.mdl
+8/15 17:56:01.814  model creation failed - .mdl1.mdl
+8/15 17:56:01.829  model creation failed - .mdl1.mdl
+8/15 17:56:01.829  model creation failed - .mdl0.mdl
+8/15 17:56:01.902  model creation failed - .mdl2.mdl
+8/15 17:56:01.902  model creation failed - .mdl1.mdl
+8/15 17:56:01.903  model creation failed - .mdl0.mdl
+8/15 17:56:01.903  model creation failed - .mdl0.mdl
+8/15 17:56:01.903  model creation failed - .mdl2.mdl
+8/15 17:56:01.909  model creation failed - .mdl2.mdl
+8/15 17:56:01.382  model creation failed - .mdl0.mdl
+8/15 17:56:01.382  model creation failed - .mdl1.mdl
+8/15 17:56:02.587  model creation failed - .mdl2.mdl
+8/15 17:56:02.653  model creation failed - .mdl2.mdl
+8/15 17:56:02.677  model creation failed - .mdl0.mdl
+8/15 17:56:02.677  model creation failed - .mdl0.mdl
+8/15 17:56:02.677  model creation failed - .mdl0.mdl
+8/15 17:56:02.678  model creation failed - .mdl1.mdl
+8/15 17:56:02.678  model creation failed - .mdl2.mdl
+8/15 17:56:02.678  model creation failed - .mdl0.mdl
+8/15 17:56:02.708  model creation failed - .mdl0.mdl
+8/15 17:56:02.709  model creation failed - .mdl1.mdl
+8/15 17:56:02.713  model creation failed - .mdl2.mdl
+8/15 17:56:02.713  model creation failed - .mdl2.mdl
+8/15 17:56:02.713  model creation failed - .mdl2.mdl
+8/15 17:56:02.713  model creation failed - .mdl1.mdl
+8/15 17:56:02.713  model creation failed - .mdl0.mdl
+8/15 17:56:02.713  model creation failed - .mdl2.mdl
+8/15 17:56:02.713  model creation failed - .mdl1.mdl
+8/15 17:56:02.713  model creation failed - .mdl1.mdl
+8/15 17:56:02.713  model creation failed - .mdl1.mdl
+8/15 17:56:02.713  model creation failed - .mdl1.mdl
+8/15 17:56:02.714  model creation failed - .mdl1.mdl
+8/15 17:56:02.714  model creation failed - .mdl1.mdl
+8/15 17:56:02.715  model creation failed - .mdl0.mdl
+8/15 17:56:02.719  model creation failed - .mdl2.mdl
+8/15 17:56:02.720  model creation failed - .mdl1.mdl
+8/15 17:56:02.968  model creation failed - .mdl2.mdl
+8/15 17:56:02.969  model creation failed - .mdl2.mdl
+8/15 17:56:02.970  model creation failed - .mdl0.mdl
+8/15 17:56:02.970  model creation failed - .mdl0.mdl
+8/15 17:56:02.970  model creation failed - .mdl1.mdl
+8/15 17:56:02.970  model creation failed - .mdl1.mdl
+8/15 17:56:02.970  model creation failed - .mdl2.mdl
+8/15 17:56:02.067  model creation failed - .mdl0.mdl
+8/15 17:56:02.075  model creation failed - .mdl2.mdl
+8/15 17:56:02.080  model creation failed - .mdl0.mdl
+8/15 17:56:02.080  model creation failed - .mdl1.mdl
+8/15 17:56:02.080  model creation failed - .mdl1.mdl
+8/15 17:56:02.080  model creation failed - .mdl2.mdl
+8/15 17:56:02.081  model creation failed - .mdl2.mdl
+8/15 17:56:02.081  model creation failed - .mdl1.mdl
+8/15 17:56:02.081  model creation failed - .mdl0.mdl
+8/15 17:56:02.081  model creation failed - .mdl2.mdl
+8/15 17:56:02.081  model creation failed - .mdl2.mdl
+8/15 17:56:02.081  model creation failed - .mdl1.mdl
+8/15 17:56:02.081  model creation failed - .mdl2.mdl
+8/15 17:56:02.081  model creation failed - .mdl2.mdl
+8/15 17:56:02.081  model creation failed - .mdl2.mdl
+8/15 17:56:02.081  model creation failed - .mdl1.mdl
+8/15 17:56:02.082  model creation failed - .mdl0.mdl
+8/15 17:56:02.082  model creation failed - .mdl2.mdl
+8/15 17:56:02.082  model creation failed - .mdl1.mdl
+8/15 17:56:02.083  model creation failed - .mdl0.mdl
+8/15 17:56:02.083  model creation failed - .mdl2.mdl
+8/15 17:56:02.083  model creation failed - .mdl1.mdl
+8/15 17:56:02.113  model creation failed - .mdl1.mdl
+8/15 17:56:02.113  model creation failed - .mdl2.mdl
+8/15 17:56:02.113  model creation failed - .mdl0.mdl
+8/15 17:56:02.113  model creation failed - .mdl1.mdl
+8/15 17:56:02.114  model creation failed - .mdl0.mdl
+8/15 17:56:02.114  model creation failed - .mdl1.mdl
+8/15 17:56:02.114  model creation failed - .mdl2.mdl
+8/15 17:56:02.153  model creation failed - .mdl0.mdl
+8/15 17:56:02.195  model creation failed - .mdl2.mdl
+8/15 17:56:02.455  model creation failed - .mdl0.mdl
+8/15 17:56:02.455  model creation failed - .mdl0.mdl
+8/15 17:56:03.537  model creation failed - .mdl0.mdl
+8/15 17:56:03.537  model creation failed - .mdl0.mdl
+8/15 17:56:03.538  model creation failed - .mdl0.mdl
+8/15 17:56:03.538  model creation failed - .mdl1.mdl
+8/15 17:56:03.538  model creation failed - .mdl2.mdl
+8/15 17:56:03.538  model creation failed - .mdl2.mdl
+8/15 17:56:03.602  model creation failed - .mdl0.mdl
+8/15 17:56:03.610  model creation failed - .mdl0.mdl
+8/15 17:56:03.623  model creation failed - .mdl0.mdl
+8/15 17:56:03.641  model creation failed - .mdl0.mdl
+8/15 17:56:03.645  model creation failed - .mdl2.mdl
+8/15 17:56:03.645  model creation failed - .mdl0.mdl
+8/15 17:56:03.646  model creation failed - .mdl2.mdl
+8/15 17:56:03.648  model creation failed - .mdl2.mdl
+8/15 17:56:03.648  model creation failed - .mdl0.mdl
+8/15 17:56:03.648  model creation failed - .mdl1.mdl
+8/15 17:56:03.648  model creation failed - .mdl2.mdl
+8/15 17:56:03.648  model creation failed - .mdl1.mdl
+8/15 17:56:03.708  model creation failed - .mdl0.mdl
+8/15 17:56:03.708  model creation failed - .mdl2.mdl
+8/15 17:56:03.708  model creation failed - .mdl1.mdl
+8/15 17:56:03.708  model creation failed - .mdl1.mdl
+8/15 17:56:03.708  model creation failed - .mdl1.mdl
+8/15 17:56:03.708  model creation failed - .mdl2.mdl
+8/15 17:56:03.967  model creation failed - .mdl2.mdl
+8/15 17:56:03.967  model creation failed - .mdl1.mdl
+8/15 17:56:03.981  model creation failed - .mdl1.mdl
+8/15 17:56:03.984  model creation failed - .mdl2.mdl
+8/15 17:56:03.985  model creation failed - .mdl1.mdl
+8/15 17:56:03.985  model creation failed - .mdl2.mdl
+8/15 17:56:03.985  model creation failed - .mdl2.mdl
+8/15 17:56:03.016  model creation failed - .mdl1.mdl
+8/15 17:56:03.016  model creation failed - .mdl0.mdl
+8/15 17:56:03.016  model creation failed - .mdl0.mdl
+8/15 17:56:03.016  model creation failed - .mdl0.mdl
+8/15 17:56:03.016  model creation failed - .mdl2.mdl
+8/15 17:56:03.019  model creation failed - .mdl2.mdl
+8/15 17:56:03.025  model creation failed - .mdl2.mdl
+8/15 17:56:03.079  model creation failed - .mdl2.mdl
+8/15 17:56:03.079  model creation failed - .mdl1.mdl
+8/15 17:56:03.080  model creation failed - .mdl1.mdl
+8/15 17:56:03.081  model creation failed - .mdl2.mdl
+8/15 17:56:03.147  model creation failed - .mdl1.mdl
+8/15 17:56:03.186  model creation failed - .mdl1.mdl
+8/15 17:56:03.186  model creation failed - .mdl1.mdl
+8/15 17:56:03.186  model creation failed - .mdl1.mdl
+8/15 17:56:03.217  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.219  model creation failed - .mdl0.mdl
+8/15 17:56:03.220  model creation failed - .mdl2.mdl
+8/15 17:56:03.220  model creation failed - .mdl1.mdl
+8/15 17:56:03.220  model creation failed - .mdl2.mdl
+8/15 17:56:03.220  model creation failed - .mdl1.mdl
+8/15 17:56:03.220  model creation failed - .mdl1.mdl
+8/15 17:56:03.220  model creation failed - .mdl0.mdl
+8/15 17:56:03.221  model creation failed - .mdl1.mdl
+8/15 17:56:03.221  model creation failed - .mdl2.mdl
+8/15 17:56:03.221  model creation failed - .mdl2.mdl
+8/15 17:56:03.221  model creation failed - .mdl1.mdl
+8/15 17:56:03.221  model creation failed - .mdl1.mdl
+8/15 17:56:03.221  model creation failed - .mdl2.mdl
+8/15 17:56:03.221  model creation failed - .mdl0.mdl
+8/15 17:56:03.221  model creation failed - .mdl0.mdl
+8/15 17:56:03.221  model creation failed - .mdl2.mdl
+8/15 17:56:03.221  model creation failed - .mdl0.mdl
+8/15 17:56:03.221  model creation failed - .mdl1.mdl
+8/15 17:56:03.224  model creation failed - .mdl1.mdl
+8/15 17:56:03.224  model creation failed - .mdl0.mdl
+8/15 17:56:03.226  model creation failed - .mdl1.mdl
+8/15 17:56:03.226  model creation failed - .mdl1.mdl
+8/15 17:56:03.227  model creation failed - .mdl0.mdl
+8/15 17:56:03.227  model creation failed - .mdl1.mdl
+8/15 17:56:03.227  model creation failed - .mdl0.mdl
+8/15 17:56:03.227  model creation failed - .mdl2.mdl
+8/15 17:56:03.227  model creation failed - .mdl2.mdl
+8/15 17:56:03.227  model creation failed - .mdl1.mdl
+8/15 17:56:03.227  model creation failed - .mdl2.mdl
+8/15 17:56:03.227  model creation failed - .mdl2.mdl
+8/15 17:56:03.227  model creation failed - .mdl2.mdl
+8/15 17:56:03.228  model creation failed - .mdl1.mdl
+8/15 17:56:03.228  model creation failed - .mdl1.mdl
+8/15 17:56:03.228  model creation failed - .mdl1.mdl
+8/15 17:56:03.229  model creation failed - .mdl2.mdl
+8/15 17:56:03.229  model creation failed - .mdl1.mdl
+8/15 17:56:03.229  model creation failed - .mdl0.mdl
+8/15 17:56:03.229  model creation failed - .mdl0.mdl
+8/15 17:56:03.229  model creation failed - .mdl2.mdl
+8/15 17:56:03.230  model creation failed - .mdl1.mdl
+8/15 17:56:03.230  model creation failed - .mdl0.mdl
+8/15 17:56:03.230  model creation failed - .mdl2.mdl
+8/15 17:56:03.230  model creation failed - .mdl1.mdl
+8/15 17:56:03.230  model creation failed - .mdl0.mdl
+8/15 17:56:03.230  model creation failed - .mdl0.mdl
+8/15 17:56:03.230  model creation failed - .mdl1.mdl
+8/15 17:56:03.230  model creation failed - .mdl2.mdl
+8/15 17:56:03.230  model creation failed - .mdl0.mdl
+8/15 17:56:03.230  model creation failed - .mdl0.mdl
+8/15 17:56:03.230  model creation failed - .mdl0.mdl
+8/15 17:56:03.230  model creation failed - .mdl2.mdl
+8/15 17:56:03.230  model creation failed - .mdl0.mdl
+8/15 17:56:03.230  model creation failed - .mdl2.mdl
+8/15 17:56:03.230  model creation failed - .mdl0.mdl
+8/15 17:56:03.230  model creation failed - .mdl2.mdl
+8/15 17:56:03.230  model creation failed - .mdl1.mdl
+8/15 17:56:03.231  model creation failed - .mdl1.mdl
+8/15 17:56:03.232  model creation failed - .mdl0.mdl
+8/15 17:56:03.232  model creation failed - .mdl2.mdl
+8/15 17:56:03.232  model creation failed - .mdl2.mdl
+8/15 17:56:03.232  model creation failed - .mdl2.mdl
+8/15 17:56:03.232  model creation failed - .mdl1.mdl
+8/15 17:56:03.232  model creation failed - .mdl0.mdl
+8/15 17:56:03.232  model creation failed - .mdl2.mdl
+8/15 17:56:03.233  model creation failed - .mdl2.mdl
+8/15 17:56:03.233  model creation failed - .mdl1.mdl
+8/15 17:56:03.233  model creation failed - .mdl2.mdl
+8/15 17:56:03.233  model creation failed - .mdl1.mdl
+8/15 17:56:03.233  model creation failed - .mdl2.mdl
+8/15 17:56:03.234  model creation failed - .mdl0.mdl
+8/15 17:56:03.234  model creation failed - .mdl0.mdl
+8/15 17:56:03.234  model creation failed - .mdl2.mdl
+8/15 17:56:03.234  model creation failed - .mdl0.mdl
+8/15 17:56:03.234  model creation failed - .mdl2.mdl
+8/15 17:56:03.234  model creation failed - .mdl2.mdl
+8/15 17:56:03.235  model creation failed - .mdl0.mdl
+8/15 17:56:03.235  model creation failed - .mdl2.mdl
+8/15 17:56:03.235  model creation failed - .mdl0.mdl
+8/15 17:56:03.235  model creation failed - .mdl1.mdl
+8/15 17:56:03.235  model creation failed - .mdl2.mdl
+8/15 17:56:03.236  model creation failed - .mdl0.mdl
+8/15 17:56:03.236  model creation failed - .mdl0.mdl
+8/15 17:56:03.236  model creation failed - .mdl1.mdl
+8/15 17:56:03.236  model creation failed - .mdl0.mdl
+8/15 17:56:03.236  model creation failed - .mdl1.mdl
+8/15 17:56:03.237  model creation failed - .mdl2.mdl
+8/15 17:56:03.237  model creation failed - .mdl1.mdl
+8/15 17:56:03.237  model creation failed - .mdl0.mdl
+8/15 17:56:03.237  model creation failed - .mdl0.mdl
+8/15 17:56:03.237  model creation failed - .mdl2.mdl
+8/15 17:56:03.237  model creation failed - .mdl2.mdl
+8/15 17:56:03.237  model creation failed - .mdl1.mdl
+8/15 17:56:03.238  model creation failed - .mdl2.mdl
+8/15 17:56:03.238  model creation failed - .mdl0.mdl
+8/15 17:56:03.238  model creation failed - .mdl2.mdl
+8/15 17:56:03.239  model creation failed - .mdl1.mdl
+8/15 17:56:03.239  model creation failed - .mdl0.mdl
+8/15 17:56:03.239  model creation failed - .mdl1.mdl
+8/15 17:56:03.239  model creation failed - .mdl2.mdl
+8/15 17:56:03.240  model creation failed - .mdl1.mdl
+8/15 17:56:03.240  model creation failed - .mdl2.mdl
+8/15 17:56:03.240  model creation failed - .mdl0.mdl
+8/15 17:56:03.240  model creation failed - .mdl0.mdl
+8/15 17:56:03.240  model creation failed - .mdl0.mdl
+8/15 17:56:03.240  model creation failed - .mdl0.mdl
+8/15 17:56:03.240  model creation failed - .mdl1.mdl
+8/15 17:56:03.240  model creation failed - .mdl0.mdl
+8/15 17:56:03.240  model creation failed - .mdl1.mdl
+8/15 17:56:03.241  model creation failed - .mdl2.mdl
+8/15 17:56:03.241  model creation failed - .mdl0.mdl
+8/15 17:56:03.241  model creation failed - .mdl0.mdl
+8/15 17:56:03.241  model creation failed - .mdl1.mdl
+8/15 17:56:03.241  model creation failed - .mdl0.mdl
+8/15 17:56:03.241  model creation failed - .mdl2.mdl
+8/15 17:56:03.242  model creation failed - .mdl1.mdl
+8/15 17:56:03.242  model creation failed - .mdl0.mdl
+8/15 17:56:03.242  model creation failed - .mdl1.mdl
+8/15 17:56:03.242  model creation failed - .mdl0.mdl
+8/15 17:56:03.242  model creation failed - .mdl2.mdl
+8/15 17:56:03.242  model creation failed - .mdl0.mdl
+8/15 17:56:03.242  model creation failed - .mdl0.mdl
+8/15 17:56:03.243  model creation failed - .mdl1.mdl
+8/15 17:56:03.243  model creation failed - .mdl2.mdl
+8/15 17:56:03.243  model creation failed - .mdl0.mdl
+8/15 17:56:03.244  model creation failed - .mdl1.mdl
+8/15 17:56:03.244  model creation failed - .mdl2.mdl
+8/15 17:56:03.244  model creation failed - .mdl2.mdl
+8/15 17:56:03.244  model creation failed - .mdl1.mdl
+8/15 17:56:03.244  model creation failed - .mdl0.mdl
+8/15 17:56:03.244  model creation failed - .mdl2.mdl
+8/15 17:56:03.244  model creation failed - .mdl0.mdl
+8/15 17:56:03.244  model creation failed - .mdl2.mdl
+8/15 17:56:03.244  model creation failed - .mdl2.mdl
+8/15 17:56:03.244  model creation failed - .mdl2.mdl
+8/15 17:56:03.245  model creation failed - .mdl2.mdl
+8/15 17:56:03.245  model creation failed - .mdl0.mdl
+8/15 17:56:03.245  model creation failed - .mdl2.mdl
+8/15 17:56:03.245  model creation failed - .mdl0.mdl
+8/15 17:56:03.245  model creation failed - .mdl2.mdl
+8/15 17:56:03.245  model creation failed - .mdl1.mdl
+8/15 17:56:03.246  model creation failed - .mdl0.mdl
+8/15 17:56:03.246  model creation failed - .mdl2.mdl
+8/15 17:56:03.246  model creation failed - .mdl0.mdl
+8/15 17:56:03.246  model creation failed - .mdl1.mdl
+8/15 17:56:03.246  model creation failed - .mdl2.mdl
+8/15 17:56:03.246  model creation failed - .mdl1.mdl
+8/15 17:56:03.246  model creation failed - .mdl2.mdl
+8/15 17:56:03.247  model creation failed - .mdl2.mdl
+8/15 17:56:03.247  model creation failed - .mdl2.mdl
+8/15 17:56:03.247  model creation failed - .mdl0.mdl
+8/15 17:56:03.247  model creation failed - .mdl1.mdl
+8/15 17:56:03.247  model creation failed - .mdl1.mdl
+8/15 17:56:03.247  model creation failed - .mdl1.mdl
+8/15 17:56:03.247  model creation failed - .mdl2.mdl
+8/15 17:56:03.247  model creation failed - .mdl0.mdl
+8/15 17:56:03.247  model creation failed - .mdl0.mdl
+8/15 17:56:03.247  model creation failed - .mdl0.mdl
+8/15 17:56:03.247  model creation failed - .mdl1.mdl
+8/15 17:56:03.247  model creation failed - .mdl0.mdl
+8/15 17:56:03.248  model creation failed - .mdl2.mdl
+8/15 17:56:03.248  model creation failed - .mdl1.mdl
+8/15 17:56:03.248  model creation failed - .mdl0.mdl
+8/15 17:56:03.249  model creation failed - .mdl0.mdl
+8/15 17:56:03.249  model creation failed - .mdl1.mdl
+8/15 17:56:03.249  model creation failed - .mdl2.mdl
+8/15 17:56:03.249  model creation failed - .mdl1.mdl
+8/15 17:56:03.249  model creation failed - .mdl2.mdl
+8/15 17:56:03.249  model creation failed - .mdl0.mdl
+8/15 17:56:03.249  model creation failed - .mdl2.mdl
+8/15 17:56:03.249  model creation failed - .mdl2.mdl
+8/15 17:56:03.249  model creation failed - .mdl0.mdl
+8/15 17:56:03.249  model creation failed - .mdl1.mdl
+8/15 17:56:03.249  model creation failed - .mdl1.mdl
+8/15 17:56:03.249  model creation failed - .mdl2.mdl
+8/15 17:56:03.249  model creation failed - .mdl0.mdl
+8/15 17:56:03.249  model creation failed - .mdl2.mdl
+8/15 17:56:03.250  model creation failed - .mdl1.mdl
+8/15 17:56:03.250  model creation failed - .mdl2.mdl
+8/15 17:56:03.250  model creation failed - .mdl1.mdl
+8/15 17:56:03.250  model creation failed - .mdl2.mdl
+8/15 17:56:03.250  model creation failed - .mdl1.mdl
+8/15 17:56:03.251  model creation failed - .mdl1.mdl
+8/15 17:56:03.251  model creation failed - .mdl1.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl1.mdl
+8/15 17:56:03.251  model creation failed - .mdl1.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl1.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl1.mdl
+8/15 17:56:03.251  model creation failed - .mdl1.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl0.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl2.mdl
+8/15 17:56:03.251  model creation failed - .mdl1.mdl
+8/15 17:56:03.252  model creation failed - .mdl1.mdl
+8/15 17:56:03.253  model creation failed - .mdl1.mdl
+8/15 17:56:03.253  model creation failed - .mdl0.mdl
+8/15 17:56:03.253  model creation failed - .mdl2.mdl
+8/15 17:56:03.253  model creation failed - .mdl1.mdl
+8/15 17:56:03.253  model creation failed - .mdl0.mdl
+8/15 17:56:03.253  model creation failed - .mdl0.mdl
+8/15 17:56:03.253  model creation failed - .mdl2.mdl
+8/15 17:56:03.253  model creation failed - .mdl2.mdl
+8/15 17:56:03.254  model creation failed - .mdl0.mdl
+8/15 17:56:03.254  model creation failed - .mdl1.mdl
+8/15 17:56:03.255  model creation failed - .mdl2.mdl
+8/15 17:56:03.255  model creation failed - .mdl2.mdl
+8/15 17:56:03.256  model creation failed - .mdl0.mdl
+8/15 17:56:03.256  model creation failed - .mdl0.mdl
+8/15 17:56:03.256  model creation failed - .mdl0.mdl
+8/15 17:56:03.256  model creation failed - .mdl1.mdl
+8/15 17:56:03.256  model creation failed - .mdl2.mdl
+8/15 17:56:03.256  model creation failed - .mdl0.mdl
+8/15 17:56:03.256  model creation failed - .mdl0.mdl
+8/15 17:56:03.256  model creation failed - .mdl1.mdl
+8/15 17:56:03.256  model creation failed - .mdl2.mdl
+8/15 17:56:03.256  model creation failed - .mdl2.mdl
+8/15 17:56:03.256  model creation failed - .mdl2.mdl
+8/15 17:56:03.256  model creation failed - .mdl1.mdl
+8/15 17:56:03.256  model creation failed - .mdl0.mdl
+8/15 17:56:03.256  model creation failed - .mdl2.mdl
+8/15 17:56:03.256  model creation failed - .mdl1.mdl
+8/15 17:56:03.256  model creation failed - .mdl1.mdl
+8/15 17:56:03.257  model creation failed - .mdl1.mdl
+8/15 17:56:03.257  model creation failed - .mdl1.mdl
+8/15 17:56:03.257  model creation failed - .mdl1.mdl
+8/15 17:56:03.257  model creation failed - .mdl1.mdl
+8/15 17:56:03.257  model creation failed - .mdl0.mdl
+8/15 17:56:03.257  model creation failed - .mdl2.mdl
+8/15 17:56:03.257  model creation failed - .mdl1.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl0.mdl
+8/15 17:56:03.258  model creation failed - .mdl0.mdl
+8/15 17:56:03.258  model creation failed - .mdl1.mdl
+8/15 17:56:03.258  model creation failed - .mdl1.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl0.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl0.mdl
+8/15 17:56:03.258  model creation failed - .mdl1.mdl
+8/15 17:56:03.258  model creation failed - .mdl1.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl1.mdl
+8/15 17:56:03.258  model creation failed - .mdl0.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl1.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl1.mdl
+8/15 17:56:03.258  model creation failed - .mdl0.mdl
+8/15 17:56:03.258  model creation failed - .mdl2.mdl
+8/15 17:56:03.258  model creation failed - .mdl1.mdl
+8/15 17:56:03.259  model creation failed - .mdl0.mdl
+8/15 17:56:03.259  model creation failed - .mdl2.mdl
+8/15 17:56:03.259  model creation failed - .mdl1.mdl
+8/15 17:56:03.260  model creation failed - .mdl1.mdl
+8/15 17:56:03.260  model creation failed - .mdl2.mdl
+8/15 17:56:03.260  model creation failed - .mdl0.mdl
+8/15 17:56:03.260  model creation failed - .mdl1.mdl
+8/15 17:56:03.260  model creation failed - .mdl0.mdl
+8/15 17:56:03.260  model creation failed - .mdl1.mdl
+8/15 17:56:03.260  model creation failed - .mdl2.mdl
+8/15 17:56:03.261  model creation failed - .mdl0.mdl
+8/15 17:56:03.262  model creation failed - .mdl2.mdl
+8/15 17:56:03.265  model creation failed - .mdl0.mdl
+8/15 17:56:03.265  model creation failed - .mdl0.mdl
+8/15 17:56:03.267  model creation failed - .mdl0.mdl
+8/15 17:56:03.267  model creation failed - .mdl0.mdl
+8/15 17:56:03.267  model creation failed - .mdl0.mdl
+8/15 17:56:03.267  model creation failed - .mdl1.mdl
+8/15 17:56:03.267  model creation failed - .mdl2.mdl
+8/15 17:56:03.267  model creation failed - .mdl2.mdl
+8/15 17:56:03.271  model creation failed - .mdl0.mdl
+8/15 17:56:03.271  model creation failed - .mdl0.mdl
+8/15 17:56:03.273  model creation failed - .mdl0.mdl
+8/15 17:56:03.273  model creation failed - .mdl0.mdl
+8/15 17:56:03.273  model creation failed - .mdl2.mdl
+8/15 17:56:03.273  model creation failed - .mdl0.mdl
+8/15 17:56:03.273  model creation failed - .mdl2.mdl
+8/15 17:56:03.273  model creation failed - .mdl2.mdl
+8/15 17:56:03.273  model creation failed - .mdl0.mdl
+8/15 17:56:03.273  model creation failed - .mdl1.mdl
+8/15 17:56:03.273  model creation failed - .mdl2.mdl
+8/15 17:56:03.273  model creation failed - .mdl1.mdl
+8/15 17:56:03.273  model creation failed - .mdl0.mdl
+8/15 17:56:03.273  model creation failed - .mdl2.mdl
+8/15 17:56:03.273  model creation failed - .mdl1.mdl
+8/15 17:56:03.273  model creation failed - .mdl1.mdl
+8/15 17:56:03.273  model creation failed - .mdl1.mdl
+8/15 17:56:03.273  model creation failed - .mdl2.mdl
+8/15 17:56:03.283  model creation failed - .mdl2.mdl
+8/15 17:56:03.283  model creation failed - .mdl1.mdl
+8/15 17:56:03.284  model creation failed - .mdl1.mdl
+8/15 17:56:03.284  model creation failed - .mdl2.mdl
+8/15 17:56:03.284  model creation failed - .mdl1.mdl
+8/15 17:56:03.284  model creation failed - .mdl2.mdl
+8/15 17:56:03.284  model creation failed - .mdl2.mdl
+8/15 17:56:03.285  model creation failed - .mdl1.mdl
+8/15 17:56:03.285  model creation failed - .mdl0.mdl
+8/15 17:56:03.285  model creation failed - .mdl0.mdl
+8/15 17:56:03.285  model creation failed - .mdl0.mdl
+8/15 17:56:03.285  model creation failed - .mdl2.mdl
+8/15 17:56:03.285  model creation failed - .mdl2.mdl
+8/15 17:56:03.285  model creation failed - .mdl2.mdl
+8/15 17:56:03.289  model creation failed - .mdl2.mdl
+8/15 17:56:03.289  model creation failed - .mdl1.mdl
+8/15 17:56:03.289  model creation failed - .mdl1.mdl
+8/15 17:56:03.289  model creation failed - .mdl2.mdl
+8/15 17:56:03.291  model creation failed - .mdl1.mdl
+8/15 17:56:03.294  model creation failed - .mdl1.mdl
+8/15 17:56:03.294  model creation failed - .mdl1.mdl
+8/15 17:56:03.294  model creation failed - .mdl1.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.295  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl2.mdl
+8/15 17:56:03.296  model creation failed - .mdl1.mdl
+8/15 17:56:03.296  model creation failed - .mdl2.mdl
+8/15 17:56:03.296  model creation failed - .mdl1.mdl
+8/15 17:56:03.296  model creation failed - .mdl1.mdl
+8/15 17:56:03.296  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl1.mdl
+8/15 17:56:03.296  model creation failed - .mdl2.mdl
+8/15 17:56:03.296  model creation failed - .mdl2.mdl
+8/15 17:56:03.296  model creation failed - .mdl1.mdl
+8/15 17:56:03.296  model creation failed - .mdl1.mdl
+8/15 17:56:03.296  model creation failed - .mdl2.mdl
+8/15 17:56:03.296  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl2.mdl
+8/15 17:56:03.296  model creation failed - .mdl0.mdl
+8/15 17:56:03.296  model creation failed - .mdl1.mdl
+8/15 17:56:07.047  model creation failed - Flame Eye
+8/15 17:56:17.881  model creation failed - THIS MODEL WAS RIPPED BY INICO. PM? (http://wowinwc3.forumcircle.com/profile.php?mode=viewprofile&u=798)
+8/15 17:56:19.910  Deactivating WebUI
+8/15 17:56:19.952  Deactivating WebUI
+8/15 17:56:38.282  model creation failed - 
+8/15 17:56:38.408  model creation failed - 
+8/15 17:56:38.410  model creation failed - 
+8/15 17:56:38.413  model creation failed - 
+8/15 17:56:38.416  model creation failed - 
+8/15 17:56:38.418  model creation failed - 
+8/15 17:56:38.420  model creation failed - 
+8/15 17:57:18.956  model creation failed - 
+8/15 17:57:18.959  model creation failed - 
+8/15 17:57:18.960  model creation failed - 
+8/15 17:57:18.960  model creation failed - 
+8/15 17:57:18.960  model creation failed - 
+8/15 17:57:18.960  model creation failed - 
+8/15 17:57:18.961  model creation failed - 
+8/15 17:57:45.792  model creation failed - 
+8/15 17:57:45.796  model creation failed - 
+8/15 17:57:45.796  model creation failed - 
+8/15 17:57:45.796  model creation failed - 
+8/15 17:57:45.796  model creation failed - 
+8/15 17:57:45.797  model creation failed - 
+8/15 17:57:45.797  model creation failed - 
+8/15 17:58:14.177  model creation failed - 
+8/15 17:58:14.180  model creation failed - 
+8/15 17:58:14.180  model creation failed - 
+8/15 17:58:14.180  model creation failed - 
+8/15 17:58:14.181  model creation failed - 
+8/15 17:58:14.181  model creation failed - 
+8/15 17:58:14.181  model creation failed - 
+8/15 18:01:01.692  model creation failed - 
+8/15 18:01:01.700  model creation failed - 
+8/15 18:01:01.711  model creation failed - 
+8/15 18:01:43.638  model creation failed - 
+8/15 18:03:23.635  Activating WebUI
+8/15 18:03:23.638  Activating WebUI
+8/15 18:03:27.758  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/2P Human09 v2.5.w3x
+8/15 18:03:27.759  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/LTA 1.63c.w3x
+8/15 18:03:27.760  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/PKLegendsv2.6.w3x
+8/15 18:03:27.761  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Caterparty v17.5 TFT.w3x
+8/15 18:03:27.761  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Evolution Tag 1.77.7 ( opt ).w3x
+8/15 18:03:27.762  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/YouTD_v1.10cModV3.w3x
+8/15 18:03:27.762  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Broken Alliances 6.7a.w3x
+8/15 18:03:27.762  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Warlock1.02.w3x
+8/15 18:03:27.762  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion TD HELL v3.97c.w3x
+8/15 18:03:27.763  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/LineTowerWarsR_6.8cP (1).w3x
+8/15 18:03:27.763  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/DotA_v6.86.36~1.w3x
+8/15 18:03:27.763  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Custom_Castle_Defense_v10.8.0p.w3x
+8/15 18:03:27.763  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/WW1 ISH 4.1q.w3x
+8/15 18:03:27.764  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/JPEE7.4a(F).w3x
+8/15 18:03:27.764  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NarutoRefo 1.56Fix3C ENG.w3x
+8/15 18:03:27.764  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Hero_PushPUB_4.1~1.w3x
+8/15 18:03:27.765  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Heroic Origins Galaxy TD v12.0FIX.w3x
+8/15 18:03:27.765  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/VampirismNewGen7.08b2.w3x
+8/15 18:03:27.765  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/PumpkinTD_v1.21-ENG~1.w3x
+8/15 18:03:27.765  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Random Farm TD 0.57.w3x
+8/15 18:03:27.765  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/CHS_v1.9.30-beta5_fix3.w3x
+8/15 18:03:27.766  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Aspect_of_Doom_RPG_1.15ap.w3x
+8/15 18:03:27.766  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/War of the 12 Kingdoms 4..w3m
+8/15 18:03:27.766  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/X3v3.69-970f.w3x
+8/15 18:03:27.766  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Risk Europe 1.37a.w3x
+8/15 18:03:27.767  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Reforged_Footmen_Frenzy_v5.9.3.w3x
+8/15 18:03:27.769  Opening map - Maps/frozenthrone/(8)banewoodbog.w3x
+8/15 18:03:27.778  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/DotA_v6.86.36.w3x
+8/15 18:03:27.778  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/HELLHALT v5.0.80.w3x
+8/15 18:03:27.778  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Legion_TD_10.3_Team_OZE.w3x
+8/15 18:03:27.779  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/DotA_v6.86.36.w3x
+8/15 18:03:27.779  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/NightStalker TD evo V15.w3x
+8/15 18:03:27.779  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Impossible Hero Defense 31.5.w3x
+8/15 18:03:27.823  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Hero_PushPUB_4.1~1.w3x
+8/15 18:03:27.823  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Hero_PushPUB_4.1~1.w3x
+8/15 18:03:27.906  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Hero_PushPUB_4.1~1.w3x
+8/15 18:03:27.906  Opening map - /Users/vuquangnam/Library/Application Support/Blizzard/Warcraft III/Maps/Download/Hero_PushPUB_4.1~1.w3x
+8/15 18:04:00.744  GameMain Ended

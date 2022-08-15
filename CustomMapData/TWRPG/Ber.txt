@@ -1,5 +1,6 @@
 function PreloadFiles takes nothing returns nothing
 
+	call PreloadStart()
 	call Preload( "---------------------------------------" )
 	call Preload( "User Name: Kisaki#11811" )
 	call Preload( "Played Version: 0.61m" )
@@ -32,6 +33,7 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( "16. Prius Silver Coin x8" )
 	call Preload( "17. Dark Matter" )
 	call Preload( "18. Dark Matter" )
+	call Preload( "19. Essence of Corruption" )
 	call Preload( "----------Storage----------" )
 	call Preload( "1. Blade of Requiem" )
 	call Preload( "2. Bat Wings" )
@@ -57,8 +59,8 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( "22. Dark Wings" )
 	call Preload( "23. Ring of the Sage" )
 	call Preload( "---------------------------------------" )
-	call Preload( "Load Code 1: -load d6fBwLUR&hW2ddD$VUh0fna5%OBPAhLfkLKv%#" )
-	call Preload( "Load Code 2: -load $XTE5OLpzZXjCPueZMnPwcW9j9?unh7NKLKqiUPbm5@7HO#NflQFxvgKUVU36FXYM#XMvnf7va7k$lVWi17QnvWEkmkYgPCNFi?4f" )
+	call Preload( "Load Code 1: -load d6dY7PNTY4OC5WE?rNk4KsejvPfa&nQ9YXi3HA" )
+	call Preload( "Load Code 2: -load eljCL0A6MbAwS44XNBrNKig@m90spWi41P0MUopGUK2#g9hvis$%5g3eU@fkx3nMRk@L1&%F7O#H2M3oYK2hj7hE$p85YWlVumdyR0y" )
 	call PreloadEnd( 0.0 )
 
 endfunction
