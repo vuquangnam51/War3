@@ -3,7 +3,7 @@ function PreloadFiles takes nothing returns nothing
 	call PreloadStart()
 	call Preload( "Crash Report" )
 	call Preload( "")
-	call BlzSetAbilityTooltip('A017', "31-rZ19+q;PRzKc`:20J=C2|}3UWT~(SPk^J;m^K<_HSTO?j$x[%fR+SJx", 0)
+	call BlzSetAbilityTooltip('A017', "32-h'vD;rML6$_MD,R+)0#U[Ub^>g&'ob+Uq.Vt^AxRPVYQiY8KmI~>=2Q}", 0)
 //" )
 	call PreloadEnd( 0.0 )
 

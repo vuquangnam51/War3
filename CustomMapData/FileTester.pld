@@ -2,7 +2,7 @@ function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
 	call Preload( "" )
-call BlzSetAbilityTooltip('AM04', "test", 0)
+call BlzSetAbilityTooltip(1097690227, "FileIO_", 1)
 //" )
 	call Preload( "" )
 endfunction
